@@ -28,6 +28,7 @@ pip install flask opencv-python-headless
 Include screenshots of the application in action:
 
 - **Landing Page**:
-  
+  ![Screenshot 2024-03-01 231956](https://github.com/BIBIYANAJ/cartoonify/assets/126191304/f4176d73-226f-4c1e-9bbc-b1a46e2b6e6e)
+
 - **Result Page**:
    
